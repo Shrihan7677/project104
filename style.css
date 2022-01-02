@@ -1,0 +1,16 @@
+.heading{
+    font-size:22px;
+    width: 80%;
+}
+#camera{
+    border: 2px dashed blanchedalmond;
+    width:350px;
+    height:300px;
+}
+.name_of_objects, #output_object_name  , #output_object_accuracy{
+    font-size: 19px;
+    color:lightsalmon;
+}
+body{
+    background-color: olivedrab;
+}
